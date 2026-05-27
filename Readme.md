@@ -6,7 +6,11 @@
 
 </div>
 
-h1 align="center">Smart RFID Inventory Intelligence System</h1>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/St._Joseph%27s_University%2C_Bengaluru_logo.png/200px-St._Joseph%27s_University%2C_Bengaluru_logo.png" height="80"/>
+</p>
+
+<h1 align="center">Smart RFID Inventory Intelligence System</h1
 
 <p align="center">
   <b>Vinay</b>, BDA, SJU &nbsp;·&nbsp;
