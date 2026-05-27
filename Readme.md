@@ -13,11 +13,11 @@
 <h1 align="center">Smart RFID Inventory Intelligence System</h1
 
 <p align="center">
-  <b>Vinay</b>, BDA, SJU &nbsp;·&nbsp;
-  <b>Keerthi</b>, BDA, SJU &nbsp;·&nbsp;
-  <b>Divya</b>, MSc, SJU &nbsp;·&nbsp;
-  <b>Devika</b>, MSc, SJU &nbsp;·&nbsp;
-  <b>Jerusha</b>, MSc, SJU
+  <b>Vinay</b>, BDA &nbsp;·&nbsp;
+  <b>Keerthi</b>, BDA &nbsp;·&nbsp;
+  <b>Divya</b>, MCA &nbsp;·&nbsp;
+  <b>Devika</b>, MCA &nbsp;·&nbsp;
+  <b>Jerusha</b>, MCA
 </p>
 
 ---
