@@ -20,6 +20,7 @@
 
 ---
 
+<p align="justify">
 ## Abstract
 
 Retail inventory management is one of the most persistent and financially damaging operational challenges faced by apparel stores in India today. Texs Mart, a growing apparel retail store located at Gopalan Mall, Sirsi Circle, Bengaluru, loses over 1000 items every single month — and has no mechanism to determine whether those items were stolen, misplaced by customers, or simply unaccounted for in their manual inventory system. This situation, known in retail research as Phantom Inventory, occurs when the store management system records an item as available in stock while the item is physically missing from the shelf or the store entirely. The consequences are severe: incorrect reorder decisions, customer dissatisfaction, and direct revenue losses estimated at ₹3,00,000 per month based on an average item value of ₹300.
@@ -50,6 +51,7 @@ The limitations of the existing EAS infrastructure reveal a significant technolo
 
 To demonstrate the practical feasibility of the proposed approach without requiring immediate deployment of physical RFID infrastructure, a software-based simulation environment was developed. The system consists of a real-time dashboard integrated with Firebase Realtime Database and designed for browser-based access. The platform monitors the status and movement of inventory items across multiple locations, including storage racks, billing counters, and exit gates. A parallel simulation engine continuously generates inventory events such as product movement, rack misplacement, billing activity, and theft scenarios, replicating real-world customer and staff interactions within the store environment. The dashboard processes and visualizes these events in real time while automatically generating alerts for inventory anomalies such as theft or misplacement. This implementation provides a realistic demonstration of how RFID-enabled inventory intelligence can improve visibility, reduce losses, and support more efficient retail operations.
 
+</p>
 ---
 
 ## Literature Review
