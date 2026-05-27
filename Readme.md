@@ -1,18 +1,20 @@
 <div align="center">
 
   <img src="https://www.sju.edu.in/assets/img/st-joseph-university-logo.png"
-       height="80"
-       style="background:white; padding:8px; margin:0 16px;" />
+       height="90"
+       style="vertical-align:middle; margin-right:20px;" />
 
   <img src="https://www.erafoundationindia.org/images/logo.svg"
-       height="80"
-       style="background:white; padding:8px; margin:0 16px;" />
+       height="90"
+       style="vertical-align:middle; margin-right:20px;" />
 
   <img src="https://comedkares.org/wp-content/uploads/2023/04/Comedkares-Logo-EPS.png"
-       height="80"
-       style="background:white; padding:8px; margin:0 16px;" />
+       height="90"
+       style="vertical-align:middle;" />
 
 </div>
+
+---
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/St._Joseph%27s_University%2C_Bengaluru_logo.png/200px-St._Joseph%27s_University%2C_Bengaluru_logo.png"
