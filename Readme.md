@@ -6,7 +6,6 @@
 
 </div>
 
---- 
 h1 align="center">Smart RFID Inventory Intelligence System</h1>
 
 <p align="center">
