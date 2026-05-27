@@ -19,8 +19,6 @@
 </p>
 
 ---
-
-<p align="justify">
 ## Abstract
 
 Retail inventory management is one of the most persistent and financially damaging operational challenges faced by apparel stores in India today. Texs Mart, a growing apparel retail store located at Gopalan Mall, Sirsi Circle, Bengaluru, loses over 1000 items every single month — and has no mechanism to determine whether those items were stolen, misplaced by customers, or simply unaccounted for in their manual inventory system. This situation, known in retail research as Phantom Inventory, occurs when the store management system records an item as available in stock while the item is physically missing from the shelf or the store entirely. The consequences are severe: incorrect reorder decisions, customer dissatisfaction, and direct revenue losses estimated at ₹3,00,000 per month based on an average item value of ₹300.
@@ -51,11 +49,10 @@ The limitations of the existing EAS infrastructure reveal a significant technolo
 
 To demonstrate the practical feasibility of the proposed approach without requiring immediate deployment of physical RFID infrastructure, a software-based simulation environment was developed. The system consists of a real-time dashboard integrated with Firebase Realtime Database and designed for browser-based access. The platform monitors the status and movement of inventory items across multiple locations, including storage racks, billing counters, and exit gates. A parallel simulation engine continuously generates inventory events such as product movement, rack misplacement, billing activity, and theft scenarios, replicating real-world customer and staff interactions within the store environment. The dashboard processes and visualizes these events in real time while automatically generating alerts for inventory anomalies such as theft or misplacement. This implementation provides a realistic demonstration of how RFID-enabled inventory intelligence can improve visibility, reduce losses, and support more efficient retail operations.
 
-</p>
 ---
 
 ## Literature Review
-
+<p align="justify">
 This study is supported by an extensive review of published research conducted between 2015 and 2025 focusing on inventory management challenges, retail monitoring systems, and intelligent tracking technologies. Existing literature was examined to understand the causes of inventory inaccuracies, the technologies employed to address such challenges, and the strengths and limitations of current approaches. The reviewed studies collectively establish the importance of real-time inventory visibility and provide a foundation for the proposed RFID-based solution.
 
 The concept of On-Shelf Availability (OSA) and Out-of-Stock (OOS) conditions in retail environments was extensively discussed in research published by the International Journal of Computer Applications (2015). The study introduced the concept of Phantom Inventory, a condition in which inventory systems indicate products as available while the physical items are missing due to theft, misplacement, or other factors. The research reported that approximately 25% of out-of-stock situations originate from shelf-level issues rather than actual warehouse shortages. Several approaches for shelf monitoring were evaluated, including QR-based systems, customer-driven mobile applications, RFID technologies, weight-sensing shelves, and image-processing approaches. Although RFID was identified as the most reliable solution, implementation cost was highlighted as a major limitation during that period. Advancements in RFID technology and reductions in component cost now make practical implementation considerably more feasible.
@@ -73,7 +70,6 @@ The reviewed literature collectively demonstrates that while substantial progres
 ---
 
 ## Objectives
-
 1. To propose a cost-effective hardware upgrade — embedding a passive RFID chip into the existing EAS security tag at an additional cost of ₹10–15 per item — enabling item-level intelligence without replacing any existing store infrastructure.
 
 2. To design and build a real-time software system that tracks every tagged garment from shelf to billing to exit — automatically detecting misplacement when an item appears on the wrong rack, and identifying theft when an unscanned item passes through the exit gate.
